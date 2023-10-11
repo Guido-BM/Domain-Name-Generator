@@ -1,6 +1,6 @@
 body::before{
     content: "";
-    background-image: url("./books.png.png");
+    background-image: url("./books.png");
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
